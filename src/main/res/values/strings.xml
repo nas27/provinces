@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Province Lister</string>
+    <string name="btn_loadProvinces_text">Load Provinces</string>
+    <string name="provincial_arm">Provincial Arms</string>
+    <string name="txtCapital_text">"Capital: "</string>
+
+    <!--String array of province names to populate list view-->
+    <string-array name="provinces">
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Manitoba</item>
+        <item>British Columbia</item>
+        <item>Prince Edward Island</item>
+        <item>Saskatchewan</item>
+        <item>Alberta</item>
+        <item>Newfoundland</item>
+    </string-array>
+    <!--String array of corresponding names to populate list view-->
+    <string-array name="capitals">
+        <item>Toronto</item>
+        <item>Quebec City</item>
+        <item>Halifax</item>
+        <item>Fredericton</item>
+        <item>Winnipeg</item>
+        <item>Victoria</item>
+        <item>Charlottetown</item>
+        <item>Regina</item>
+        <item>Edmonton</item>
+        <item>St. John\'s</item>
+    </string-array>
+</resources>
